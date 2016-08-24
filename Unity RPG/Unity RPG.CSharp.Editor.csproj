@@ -130,12 +130,6 @@
     <Reference Include="UnityEditor.iOS.Extensions.Common">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
-    <Reference Include="NDesk.Options">
-      <HintPath>Assets\Tiled2Unity\Programs\Tiled2Unity\NDesk.Options.dll</HintPath>
-    </Reference>
-    <Reference Include="Tiled2UnityLib">
-      <HintPath>Assets\Tiled2Unity\Programs\Tiled2Unity\Tiled2UnityLib.dll</HintPath>
-    </Reference>
     <Reference Include="Assembly-UnityScript">
       <HintPath>Library\ScriptAssemblies\Assembly-UnityScript.dll</HintPath>
     </Reference>
@@ -166,19 +160,6 @@
     <None Include="Assets\Tiled2Unity\Materials\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Meshes\_ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Prefabs\_ReadMe.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\AUTHORS.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\COPYING.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\LICENSE.APACHE.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\LICENSE.BSD.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\LICENSE.GPL.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\NEWS.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\README.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled\examples\sewer_automap\rules.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled2Unity\Examples\license.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled2Unity\License\License.Clipper.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled2Unity\License\License.LibTessDotNet.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled2Unity\License\License.NDesk.txt" />
-    <None Include="Assets\Tiled2Unity\Programs\Tiled2Unity\ReadMe.txt" />
     <None Include="Assets\Tiled2Unity\Shaders\shaColorKey.shader" />
     <None Include="Assets\Tiled2Unity\Shaders\shaDefault.shader" />
     <None Include="Assets\Tiled2Unity\Shaders\shaDepth.shader" />
